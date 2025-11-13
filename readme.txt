@@ -1,1 +1,1 @@
-"Это тестовый проект для работы с Git и GitHub." 
+abunga abunga proverka 
